@@ -30,7 +30,7 @@ import javax.swing.table.TableModel;
  * @author Edgar
  */
 public class Partidos extends javax.swing.JFrame {
-
+//prueba
     /**
      * Creates new form Partidos
      */
